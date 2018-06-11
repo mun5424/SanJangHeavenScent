@@ -13,69 +13,13 @@ body {
     margin-bottom: 20px;
 }
 
-#start-button {
-    color: white; 
+.img-carousel {
+    max-height: 607px;
+    width: auto;
+    height: auto;
+    
 }
 
-
-.container-content {
-    overflow: hidden;   
-    WIDTH: 980px;
-    margin: auto;   
-    display: none;
-}
-
-#artist, #game {
-    border: 5px solid white;
-    color: white;
-    text-align: center; 
-    line-height: 30px;
-    height: 400px;
-    padding-top: 10px;
-}
-
-#artist-img-container {
-    width: 90%; 
-    text-align: center; 
-    margin: auto;
-    height: 250px;
-}
-
-#artist-caption {
-    margin-bottom: 5px;
-}
-
-#artist-image {
-    max-width: 300px; 
-    max-height: 250px;
-    line-height: 250px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-img {
-    vertical-align: middle;
-}
-
-#game {
-    padding-top: 20px;
-}
-
-
-#win-count { 
-    position: absolute;
-    width: 100px;
-    bottom: 15px;
-    right: 40px; 
-}
-
-#guesses, #guesses-remaining, #wrong-guesses {
-    font-size: 25px;
-    font-weight: bold;
-    white-space: pre;
-    letter-spacing: 5px;
-    text-align: center;
-}
 
 @media screen and (max-width: 640px) {
     

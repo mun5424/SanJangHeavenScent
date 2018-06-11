@@ -1,5 +1,6 @@
 body { 
     background-color: white;
+    background-image: url("../images/background-brown.jpeg");
 
 }
 .jumbotron{
@@ -15,12 +16,22 @@ body {
 
 .img-carousel {
     max-height: 607px;
-    width: auto;
     height: auto;
-    
+    border-radius: 80px;
 }
 
+#header {
+    text-align: center;
+    padding: 10px;
+}
+h1, h3 {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
 
+h3 {
+    font-size: 16px;
+}
 @media screen and (max-width: 640px) {
     
     #logo { 

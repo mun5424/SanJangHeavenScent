@@ -32,6 +32,9 @@ h1, h3 {
 h3 {
     font-size: 20px;
 }
+.headline-en {
+    font-size: 24px;
+}
 
 .gungsuh {
     font-family: 'Gungsuh';
@@ -60,8 +63,15 @@ h3 {
 
  }
 
-#header {
-}
+ .container-address {
+     text-align: center;
+     padding: 20px;
+ }
+
+ .address{ 
+    font-size: 30px;
+     
+ }
 
  .navbar li { color: #000 } 
 

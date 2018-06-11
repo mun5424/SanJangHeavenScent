@@ -52,7 +52,22 @@ h3 {
      font-size: 30px;
  }
  
+ .nav-item {
+    background-color: black;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 0px 10px 0px 10px;
+
+ }
+
+#header {
+}
+
  .navbar li { color: #000 } 
+
+ .featured-items{
+     text-align: center;
+ }
 @media screen and (max-width: 640px) {
     
     #logo { 

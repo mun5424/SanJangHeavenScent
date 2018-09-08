@@ -94,7 +94,10 @@ h3 {
 
  .img-menu {
      margin: 10 0 10 0; 
+ }
 
+ #container-contact {
+        text-align: center;
  }
 
 @media screen and (max-width: 640px) {
